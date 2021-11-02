@@ -16,10 +16,7 @@ export class Footer extends React.Component {
                 <a target="_blank" href="https://www.linkedin.com/in/camellia-powers/">
                 <FontAwesomeIcon size="2x" icon={["fab", "linkedin-in"]} />
                  </a>
-                {/* <a target="_blank" href="https://www.pinterest.com/powerscamellia/" > 
-                <FontAwesomeIcon size="2x" icon={["fab", "pinterest"]} />
-                </a> */}
-            <p>&#169;2019-2020 Camellia Powers</p>
+            <p>&#169;2019-{(new Date().getFullYear())} Camellia Powers</p>
             </section>
         );
     }

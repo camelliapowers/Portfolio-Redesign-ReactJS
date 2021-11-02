@@ -13,7 +13,7 @@ import { Root } from "./components/Root";
 var loadingIndicator = (<div id="preloader" className="ex ex--light"><div className="mnml-spinner light mx-auto"></div></div>);
 
 var images = [
-    "http://www.deelay.me/1000/http://www.deelay.me/img/5000ms.gif",
+
 
     "/images/projects/alaska/Alaska1.jpg",
     "/images/projects/alaska/Alaska3.jpg",
