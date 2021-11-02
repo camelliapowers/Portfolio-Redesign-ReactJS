@@ -1,4 +1,5 @@
 import * as React from "react";
+import FontAwesomeIcon from '@fortawesome/react-fontawesome';
  
 import "../Projects.scss";
 
@@ -28,8 +29,10 @@ export class Portofseattle extends React.Component {
                         <div className="detail-title">Tools</div>
                         <div className="detail-content">
                             <p>Sketch, Photoshop&nbsp;&nbsp;
-                                <a className="primary_btn" href="/images/projects/portofseattle/Sea-Tac_Parking_Reservation.pdf" target="blank">Stories</a>
-                                <a className="primary_btn" href="../images/projects/portofseattle/portofseattle_full_view.html" target="_blank">Design</a>
+                                <a className="primary_btn" href="/images/projects/portofseattle/Sea-Tac_Parking_Reservation.pdf" target="blank"> Stories </a>
+                                <a className="primary_btn" href="../images/projects/portofseattle/portofseattle_full_view.html" target="_blank"> Design </a>
+
+                                <i class="fas fa-chevron-right"></i>
                         </p>
                         </div>
                     </div>
