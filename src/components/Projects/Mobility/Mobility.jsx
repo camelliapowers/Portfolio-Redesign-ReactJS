@@ -83,9 +83,9 @@ export class Mobility extends React.Component {
                     <div className="detail-title"><p></p></div>
                         <div className="detail-content"></div>
                     </div>
-                    <img className="detail_image" src="../images/projects/mobility/mobility1.jpg" />
-                    <img className="detail_image" src="../images/projects/mobility/Connection_Mock.jpg" />
-                    <img className="detail_image" src="../images/projects/mobility/Signin.jpg" />
+                    <img alt="Project - CATS Mobility" className="detail_image" src="../images/projects/mobility/mobility1.jpg" />
+                    <img alt="Project - CATS Mobility" className="detail_image" src="../images/projects/mobility/Connection_Mock.jpg" />
+                    <img alt="Project - CATS Mobility" className="detail_image" src="../images/projects/mobility/Signin.jpg" />
                 </div>
             </div>
 

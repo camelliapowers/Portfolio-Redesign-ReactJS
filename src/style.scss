@@ -27,7 +27,11 @@ a{
     outline: 0;
     }
 a:hover, a:link, a:visited, a:active{
-	color: #161616;
+	color: #ffffff;
+    }
+    a:focus{
+        outline: 2px dashed #c8c8d5;
+    outline-offset: 3px;
     }
 input, button, button:active, button:focus, textarea, textarea:focus { border:none; outline:0; } 
 

@@ -46,7 +46,7 @@ export class Archaio extends React.Component {
                     <div className="detail-title"><p></p></div>
                         <div className="detail-content"></div>
                     </div>
-                    <img className="detail_image" src="../images/projects/archaio/home1.jpg" />
+                    <img alt="Project - Archaio - Web Design" className="detail_image" src="../images/projects/archaio/home1.jpg" />
                 </div>
             </div>
         );

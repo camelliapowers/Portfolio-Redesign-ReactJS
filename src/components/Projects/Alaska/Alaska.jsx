@@ -27,7 +27,7 @@ export class Alaska extends React.Component {
                     <div className="detail-row">
                         <div className="detail-title">Tools</div>
                         <div className="detail-content">
-                            <p>Photoshop, Illustrator, Pencils &amp; Paper, Visual Studio Code &nbsp; [ &nbsp;HTML, CSS, ReactJS&nbsp; ]    </p>
+                            <p>Photoshop, Illustrator, Pencils &amp; Paper, Visual Studio Code &nbsp; (ReactJS)</p>
                             <p>
                             <a className="primary_btn" href="../images/projects/alaska/Alaska_full_view.html" target="_blank">Design</a>
                             <a className="primary_btn" href="../images/projects/alaska/www/index.html" target="_blank">Demo</a>
@@ -49,8 +49,8 @@ export class Alaska extends React.Component {
                         <div className="detail-title"><p></p></div>
                         <div className="detail-content"></div>
                     </div>
-                    <img className="detail_image" src="../images/projects/alaska/Alaska3.jpg" />
-                    <img className="detail_image" src="../images/projects/alaska/Alaska1.jpg" />
+                    <img alt="Project - Alaska - Customer Survey" className="detail_image" src="../images/projects/alaska/Alaska3.jpg" />
+                    <img alt="Project - Alaska - Customer Survey" className="detail_image" src="../images/projects/alaska/Alaska1.jpg" />
                 </div>
             </div>
         );

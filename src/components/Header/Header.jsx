@@ -15,10 +15,10 @@ export class Header extends React.Component {
                     trends, animation, color, space, and new ways to build engaging web and mobile products. For over 7 years,
                     I've been working on projects of many shapes and sizes, turning ideas into exceptional online experiences.</p>
                     <div className="social-links">
-                    <button className="secondary_btn social"><a href="https://github.com/camelliapowers" target="blank">
-                        <FontAwesomeIcon size="1x" icon={["fab", "github"]} />  GitHub</a></button> 
-                    <button className="secondary_btn social"><a href="https://www.linkedin.com/in/camellia-powers/" target="blank"> 
-                    <FontAwesomeIcon size="1x" icon={["fab", "linkedin-in"]} />  Linkedin</a></button> 
+                    <a className="secondary_btn social" href="https://github.com/camelliapowers" target="blank">
+                        <FontAwesomeIcon size="1x" icon={["fab", "github"]} />  GitHub</a>
+                    <a className="secondary_btn social" href="https://www.linkedin.com/in/camellia-powers/" target="blank"> 
+                    <FontAwesomeIcon size="1x" icon={["fab", "linkedin-in"]} />  Linkedin</a>
                     </div>
                 </div>
             </section>

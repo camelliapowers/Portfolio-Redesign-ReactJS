@@ -46,7 +46,7 @@ export class HBW extends React.Component {
                     <div className="detail-title"><p></p></div>
                         <div className="detail-content"></div>
                     </div>
-                    <img className="detail_image" src="../images/projects/hbw/HBW3.jpg" />
+                    <img alt="Project - Hello Blue World" className="detail_image" src="../images/projects/hbw/HBW3.jpg" />
                 </div>
             </div>
         );

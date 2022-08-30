@@ -81,9 +81,9 @@ export class Centerpoint extends React.Component {
                     <div className="detail-title"><p></p></div>
                         <div className="detail-content"></div>
                     </div>
-                    <img className="detail_image" src="../images/projects/centerpoint/centerpoint2.jpg" />
-                    <img className="detail_image" src="../images/projects/centerpoint/centerpoint3.jpg" />
-                    <img className="detail_image" src="../images/projects/centerpoint/centerpoint4.jpg" />
+                    <img alt="Project - CATS CenterPoint" className="detail_image" src="../images/projects/centerpoint/centerpoint2.jpg" />
+                    <img alt="Project - CATS CenterPoint" className="detail_image" src="../images/projects/centerpoint/centerpoint3.jpg" />
+                    <img alt="Project - CATS CenterPoint" className="detail_image" src="../images/projects/centerpoint/centerpoint4.jpg" />
                 </div>
 
             </div>

@@ -67,10 +67,10 @@ export class Portofseattle extends React.Component {
                     <div className="detail-title"><p></p></div>
                         <div className="detail-content"></div>
                     </div>
-                    <img className="detail_image" src="../images/projects/portofseattle/parking_user.jpg" />
-                    <img className="detail_image" src="../images/projects/portofseattle/sea-tac_parking.jpg" />
+                    <img alt="Project- Sea-Tac Airport - Parking Reservation System" className="detail_image" src="../images/projects/portofseattle/parking_user.jpg" />
+                    <img alt="Project- Sea-Tac Airport - Parking Reservation System"  className="detail_image" src="../images/projects/portofseattle/sea-tac_parking.jpg" />
                 </div>
-            </div>
+            </div>      
 
         );
     }

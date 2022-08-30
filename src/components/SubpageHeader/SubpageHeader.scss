@@ -11,8 +11,8 @@
         margin: 0 auto;
         }
     .avatar{
-        width: 60px;
-        height: 60px;
+        width: 55px;
+        height: 55px;
         border-radius: 60px;
         background-image: url("../images/my_photo2.jpg"); 
         background-repeat: no-repeat;
@@ -23,6 +23,7 @@
     .title{
         width: 60%;
         float: left;
+        color: black;
         }
     h1{
         font-size: 1.8em;
@@ -44,7 +45,7 @@
         -moz-border-radius: 25px;
         border-radius: 25px; 
         vertical-align: baseline;
-        font-size: .8em;
+        font-size: 1em;
         text-align: center;
         float: right;
         margin-top: 10px;

@@ -27,7 +27,7 @@ export class Metro extends React.Component {
                     <div className="detail-row">
                         <div className="detail-title">Tools</div>
                         <div className="detail-content">
-                            <p>Photoshop, Illustrator, Text Editor &nbsp;[ &nbsp;HTML/CSS/Jquery &nbsp;] &nbsp;
+                            <p>Photoshop, Illustrator, Text Editor &nbsp;(HTML/CSS/Jquery) &nbsp;
                             <a className="primary_btn" href="../images/projects/metro/demo/home.html" target="_blank">Demo</a></p>
                         </div>
                     </div>
@@ -46,7 +46,7 @@ export class Metro extends React.Component {
                     <div className="detail-title"><p></p></div>
                         <div className="detail-content"></div>
                     </div>
-                    <img className="detail_image" src="../images/projects/metro/Metro_xmas1.jpg" />
+                    <img alt="Project - Metro Xmas E-card" className="detail_image" src="../images/projects/metro/Metro_xmas1.jpg" />
                 </div>
             </div>
         );
