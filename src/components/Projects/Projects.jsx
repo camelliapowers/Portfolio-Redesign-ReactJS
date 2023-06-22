@@ -19,6 +19,7 @@ export class Projects extends React.Component {
                 <Header />
                 <section className="content_container"> 
                 <Link to="/">
+                    <span className="sr-only">All projects</span>
                     <FontAwesomeIcon size="2x" icon={["fas", "th"]} />
                 </Link>
                 <header>

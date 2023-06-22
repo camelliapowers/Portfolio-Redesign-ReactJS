@@ -96,7 +96,14 @@ input, button, button:active, button:focus, textarea, textarea:focus { border:no
         color: lighten(grey, 20%);
         }
 }
-
+.sr-only {
+    position:absolute;
+    left:-10000px;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+    }
 @media only screen and (max-width: 1400px) and (min-width: 601px) {
     /* Medium mobile View */
     .mnml-spinner{
